@@ -20,6 +20,10 @@ header {
   font-size: 18px;
 }
 
+#logo {
+    color: #fff;
+    text-decoration: none;
+}
 /* ............headline section............. */
 
 .headline {
