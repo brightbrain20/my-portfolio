@@ -28,7 +28,7 @@
 
 # 📖 [Portfolio setup] <a name="about-project">Portfolio setup  of mobile and deskstop version</a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Portfolio setup]** setting up header and headline
 
@@ -45,7 +45,7 @@
   - [ ] Stylelint
   - [ ] ESlint
 <!-- 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> 
 
 <details>
   <summary>Client</summary>
@@ -72,7 +72,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[Aminations ]**
 - **[creation of footer section]**
@@ -178,7 +178,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Author1**
 
@@ -199,7 +199,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[populate cards with project]**
 - [ ] **[Add aminations to card section]**
@@ -219,9 +219,6 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Give a ⭐️ if you like this project! -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,7 +226,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank microverse team for this great oppotunity 
 

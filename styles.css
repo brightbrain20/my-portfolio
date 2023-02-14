@@ -67,3 +67,8 @@ ul {
   font-size: 20px;
   margin-top: 25px;
 }
+
+.fa-brands,
+.fa-solid {
+  color: #fff;
+}
