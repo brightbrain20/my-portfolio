@@ -371,6 +371,11 @@ textarea {
   outline: none;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+}
+
 .form-button {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
