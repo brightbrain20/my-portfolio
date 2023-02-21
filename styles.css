@@ -350,17 +350,19 @@ input {
   font-weight: 400;
   font-size: 15px;
   height: 20px;
-  width: 90%;
+  width: 85%;
   line-height: 24px;
   margin-bottom: 30px;
   border: none;
   border-bottom: 1px solid #726f6e;
   padding: 0 0 12px 12px;
   outline: none;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 textarea {
-  width: 90%;
+  width: 80%;
   font-family: 'Inter', sans-serif;
   font-weight: 400;
   font-size: 15px;
@@ -369,6 +371,9 @@ textarea {
   border: hidden;
   padding: 12px;
   outline: none;
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-bottom: 24px;
 }
 
 form {
@@ -379,11 +384,11 @@ form {
 .form-button {
   font-family: 'Inter', sans-serif;
   font-weight: 700;
-  margin-left: 20px;
-  margin-top: 24px;
   line-height: 24px;
   font-size: 17px;
   cursor: pointer;
+  text-align: center;
+  margin: auto;
 }
 
 .footer-line {
