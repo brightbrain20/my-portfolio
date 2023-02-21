@@ -186,12 +186,12 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/BrightEzeamaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bright-ezeamaka-752837237/)
 
-<!-- 
+ 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
+- GitHub: [@githubhandle](https://github.com/vanina123)
+- Twitter: [@twitterhandle](https://twitter.com/DufeVanina)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/larissa-vanina-dufe-407a2b25a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +209,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing">vanina123</a>
 
 Contributions, issues, and feature requests are welcome!
 
