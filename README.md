@@ -208,8 +208,8 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-<!-- 
-## 🤝 Contributing <a name="contributing"></a>
+
+## 🤝 Contributing <a name="contributing">Nana Vanina</a>
 
 Contributions, issues, and feature requests are welcome!
 
