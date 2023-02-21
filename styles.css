@@ -354,7 +354,7 @@ input {
   outline: none;
 }
 
-textarea {
+/* textarea {
   width: 90%;
   font-family: 'Inter', sans-serif;
   font-weight: 400;
@@ -364,7 +364,7 @@ textarea {
   border: hidden;
   padding: 12px;
   outline: none;
-}
+} */
 
 .form-button {
   font-family: 'Inter', sans-serif;

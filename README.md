@@ -209,7 +209,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing">Nana Vanina</a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
