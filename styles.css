@@ -321,8 +321,8 @@ h2 {
 }
 
 .button:active {
-background-color: #E05304;
-color: #F4F1F0;
+  background-color: #e05304;
+  color: #f4f1f0;
 }
 
 .button:disabled {
