@@ -473,6 +473,7 @@ textarea {
 
   .headline-container {
     display: flex;
+    justify-content: space-between;
   }
 
   .headline-text {
