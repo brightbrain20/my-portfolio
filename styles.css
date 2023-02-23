@@ -4,6 +4,10 @@
   font-size: 16px;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 /* ......... the header section.......... */
 header {
   background: #3c3a39;
@@ -59,7 +63,6 @@ p {
   font-weight: 400;
   color: #fff;
   margin: 10px 0 10px 0;
-  width: px;
 }
 
 ul {
@@ -271,6 +274,7 @@ h2 {
   color: #fff;
   margin-left: 24px;
   border: none;
+  margin-top: 50px;
 }
 
 .footer-img {
@@ -353,9 +357,6 @@ h2 {
   color: #172b4d;
 }
 
-.deskstop-form {
-  display: none;
-}
 
 input {
   font-family: 'Inter', sans-serif;
@@ -667,8 +668,6 @@ textarea {
     color: #f4f5f7;
     width: 500px;
     height: 148px;
-
-    /* padding-right: 24px; */
   }
 
   .about-me-deskstop-img {
@@ -693,13 +692,13 @@ textarea {
   .footer-section {
     display: flex;
     padding-top: 130px;
+    text-align: left;
+    gap: 30px;
   }
 
   .footer-p {
     margin: 0 0 0 50px;
     width: 410px;
-
-    /* height: 256px; */
     padding: 0 24px;
     font-family: 'Inter', sans-serif;
     font-weight: 700;
@@ -707,11 +706,7 @@ textarea {
     line-height: 52px;
     color: #262626;
   }
-
-  .mobile-form {
-    display: none;
-  }
-
+/* 
   .deskstop-form {
     display: block;
     width: 70%;
@@ -733,6 +728,16 @@ textarea {
 
   .git {
     margin-left: 600px;
+  } */
+  .form-button {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    margin-left: 0;
+    margin-top: 20;
+    line-height: 24px;
+    font-size: 17px;
+
+
   }
 
   .footerLine {
