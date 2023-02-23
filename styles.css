@@ -269,7 +269,6 @@ h2 {
   width: 161px;
   padding: 12px;
   gap: 10px;
-  margin-top: 0;
   background: #ff6b00;
   color: #fff;
   margin-left: 24px;
@@ -356,7 +355,6 @@ h2 {
   line-height: 44px;
   color: #172b4d;
 }
-
 
 input {
   font-family: 'Inter', sans-serif;
@@ -706,7 +704,8 @@ textarea {
     line-height: 52px;
     color: #262626;
   }
-/* 
+
+  /*
   .deskstop-form {
     display: block;
     width: 70%;
@@ -736,8 +735,6 @@ textarea {
     margin-top: 20;
     line-height: 24px;
     font-size: 17px;
-
-
   }
 
   .footerLine {
