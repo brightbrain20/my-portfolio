@@ -451,7 +451,6 @@ textarea {
   /* ..............headline section........... */
   .headline {
     background-image: url(./Images/Illustration-header@2x.png);
-    
     align-items: center;
     background-size: contain;
   }
@@ -475,13 +474,12 @@ textarea {
 
   .headline-container {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
   }
 
   .headline-text {
     display: flex;
     flex-direction: row-reverse;
-    
   }
 
   .headline-p {
