@@ -464,12 +464,11 @@ textarea {
 
   .headline-image {
     display: block;
-    margin-left: 47px;
-    margin-right: 300px;
   }
 
   .headline-img {
-    height: 800px;
+    height: 700px;
+    width: 529px;
   }
 
   .headline-container {
