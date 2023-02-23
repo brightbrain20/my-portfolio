@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   font-size: 16px;
+  transition: all 0.3s linear;
 }
 
 body {
@@ -718,5 +719,22 @@ textarea {
     padding-bottom: 23px;
     width: 10%;
     margin: auto;
+  }
+
+  /* ...amination and transition section... */
+  h1:hover {
+    animation: bounceIn 2s 0.5s 2;
+  }
+
+  @keyframes bounceIn {
+    0% {
+      transform: scale(0.1);
+      opacity: 0;
+    }
+
+    60% {
+      transform: scale(1.2);
+      opacity: 1;
+    }
   }
 }
