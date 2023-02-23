@@ -420,7 +420,7 @@ textarea {
   margin-left: 125px;
 }
 
-@media (min-width: 786px) {
+@media (min-width: 768px) {
   /* .............header section.......... */
   .dropdown {
     display: none;
@@ -450,8 +450,10 @@ textarea {
 
   /* ..............headline section........... */
   .headline {
-    background-image: none;
-    padding: 0;
+    background-image: url(./Images/Illustration-header@2x.png);
+    
+    align-items: center;
+    background-size: contain;
   }
 
   .flex2 {
@@ -473,13 +475,13 @@ textarea {
 
   .headline-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
   }
 
   .headline-text {
     display: flex;
     flex-direction: row-reverse;
-    padding-top: 200px;
+    
   }
 
   .headline-p {
@@ -488,7 +490,7 @@ textarea {
 
   .headline-icon {
     flex-direction: column;
-    margin-left: 70px;
+    margin-left: 10px;
     margin-top: 75px;
     width: 60px;
   }
