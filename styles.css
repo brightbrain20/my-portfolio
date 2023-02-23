@@ -420,7 +420,7 @@ textarea {
   margin-left: 125px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 786px) {
   /* .............header section.......... */
   .dropdown {
     display: none;
