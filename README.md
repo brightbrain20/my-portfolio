@@ -83,7 +83,7 @@
 
 <!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://brightbrain20.github.io/my-portfolio/)
+- [Live Demo Link](https:)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
