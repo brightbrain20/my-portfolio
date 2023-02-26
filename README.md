@@ -99,7 +99,6 @@ Clone this repo locally using git in the command line and the following command
 ```
 git clone https://github.com/brightbrain20/my-portfolio.git
 ```
-
 Alternatively, you can just download the complete zip file and extract the folder in your directory
 
 Step 2:
