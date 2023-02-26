@@ -167,7 +167,7 @@ ul {
 }
 
 .heading {
-  background-image: url("/Images/Img\ Placeholder\ \(1\).png");
+  background-image: url("./Images/Img\ Placeholder\ \(1\).png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 90%;
@@ -179,7 +179,7 @@ ul {
   font-weight: 400;
   font-size: 32px;
   width: 295px;
-  line-height: 44px;
+  line-height: 44px; 
   color: #fff;
   padding: 80px 0 0 10px;
 }
