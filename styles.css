@@ -451,7 +451,7 @@ textarea {
 
   /* ..............headline section........... */
   .headline {
-    background-image: url(./Images/Illustration-header@2x.png);
+    background-image: url("./Images/Illustration-header@2x.png");
     align-items: center;
     background-size: contain;
   }
