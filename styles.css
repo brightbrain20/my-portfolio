@@ -166,7 +166,7 @@ ul {
 }
 
 .heading {
-  background-image: url("/Images/Img\ Placeholder\ \(1\).png");
+  background-image: url("./Images/Img\ Placeholder\ \(1\).png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 90%;
