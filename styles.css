@@ -23,6 +23,7 @@ header {
   line-height: 24px;
   font-weight: 700;
   font-size: 18px;
+  color: #fff;
 }
 
 .deskstopNav {
@@ -77,6 +78,10 @@ ul {
 
 .headline-image {
   display: none;
+}
+
+.headlineIcon {
+  color: #fff;
 }
 
 /* .........About myself section........... */
@@ -151,7 +156,7 @@ ul {
   gap: 10px;
   width: 124px;
   height: 48px;
-  background: #ff6b00;
+  background: #c45201;
   color: #fff;
   border-style: none;
 }
@@ -224,7 +229,7 @@ a {
 .profesional-Art-btm {
   width: 100%;
   height: 48px;
-  background: #ff6b00;
+  background: #c45201;
   font-size: 17px;
   color: #fff;
   text-align: center;
@@ -245,7 +250,7 @@ a.profesional-Art-btm {
 }
 
 h2 {
-  color: #ff6b00;
+  color: #c45201;
   font-weight: 400;
   font-size: 72px;
   line-height: 88px;
@@ -270,7 +275,7 @@ h2 {
   width: 161px;
   padding: 12px;
   gap: 10px;
-  background: #ff6b00;
+  background: #c45201;
   color: #fff;
   margin-left: 24px;
   border: none;
@@ -326,14 +331,14 @@ h2 {
 
 .button:hover {
   background-color: #fff5e1;
-  color: #f55800;
-  border: 1px solid #f55800;
+  color: #c45201;
+  border: 1px solid #c45201;
   font-weight: 700;
   position: relative;
 }
 
 .button:active {
-  background-color: #e05304;
+  background-color: #c45201;
   color: #f4f1f0;
 }
 
@@ -650,7 +655,7 @@ textarea {
   }
 
   h2 {
-    color: #ff6b00;
+    color: #c45201;
     font-weight: 400;
     font-size: 72px;
     line-height: 81.5px;
