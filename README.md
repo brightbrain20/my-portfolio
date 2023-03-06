@@ -191,6 +191,13 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/DufeVanina)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/larissa-vanina-dufe-407a2b25a)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](........)
+- Twitter: [@twitterhandle](...........)
+- LinkedIn: [LinkedIn](........)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
