@@ -19,7 +19,17 @@
   <header>
     <div class="logo"><a href="">Bright Ezeamaka</a></div>
     <div class="dropdown">
-      <img src="./Images/Icon - Menu.png" alt="img">
+      <img class="dropdown-img" src="./Images/Icon - Menu.png" alt="img">
+    </div>
+    <div id="mobile-navigation">
+      <div class="remove-btn hidden">X</div>
+      <ul class="mobile-nav">
+        <li> <a href="#about" class="mobile-item">Portfolio</a> </li>
+       
+        <li> <a href="#about-me" class="mobile-item">About</a></li>
+        <li> <a href="#contact-me" class="mobile-item">Contact </a></li>
+         
+      </ul>
     </div>
     <div class="deskstopNav">
       <ul class="deskstop-ul">
@@ -76,7 +86,7 @@
       </div>
     </div>
   </section>
-  <section class="About-myself" id="portfolio">
+  <section  id="about" class="About-myself">
     <div class="Recent-work">
       <div class="Recent">My Recent Works</div>
       <div class="hr"> <hr></div>
@@ -174,7 +184,8 @@
             <li class="profesional-Art-li">Ruby</li>
           </ul>
         </div>
-        <div class="heading-btn"><a href="#2" class="profesional-Art-btm  button"  aria-label="click to see project"></a>>See Project</a></div>
+        <div class="heading-btn"><a href="#2" class="profesional-Art-btm  button">See Project</a></div>
+
       </div>
     </div>
     <div class="art-container">
@@ -195,7 +206,8 @@
           <li class="profesional-Art-li">Ruby</li>
         </ul>
        </div>
-        <div class="heading-btn"><a href="#2" class="profesional-Art-btm  button"  aria-label="click to see project"></a>>See Project</a></div>
+       <div class="heading-btn"><a href="#2" class="profesional-Art-btm  button">See Project</a></div>
+
       </div>
       <div class="heading flex2">
        <div class="heading-body">
@@ -242,7 +254,7 @@
   <section class="about" id="About-me">
     <div class="about-me-footer">
       <div class="about-me-container">
-        <h2>About me</h2>
+        <h2 id="about-me">About me</h2>
         <p class="footer-text">
           Hello I’m a software developer! I can help you build a product ,
           feature or website Look through some of my work and experience!
@@ -290,7 +302,7 @@
       </div>
     </div>
   </section>
-  <footer>
+  <footer id="contact-me">
     <div class="footer-section">
     <div>
       <p class="footer-p">
@@ -341,5 +353,8 @@
   </div>
   <div class="footerLine"></div>
   </footer>
+
+
+  <script src="./index.js"></script>
 </body>
 </html>
