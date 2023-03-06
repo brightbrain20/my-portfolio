@@ -245,7 +245,7 @@ ul {
 .profesional-Art-content {
   font-size: 16px;
   line-height: 24px;
-  font-weight: 400px;
+  font-weight: 400;
   font-family: 'Inter', sans-serif;
   color: #fff;
   margin-bottom: 6px;
@@ -261,7 +261,7 @@ ul {
 
 .profesional-Art-li {
   font-family: 'Inter', sans-serif;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 15px;
   line-height: 20px;
   color: #fff;
@@ -356,7 +356,7 @@ h2 {
 
 .footer-heading {
   font-size: 22px;
-  font-weight: 700px;
+  font-weight: 700;
 }
 
 .footer-ul {
@@ -559,7 +559,7 @@ textarea {
   h1 {
     width: 400px;
     height: 160px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 72px;
     line-height: 81.5px;
   }
@@ -766,7 +766,6 @@ textarea {
 
   .form-button {
     margin-left: 0;
-    margin-top: 20;
   }
 
   .footerLine {
