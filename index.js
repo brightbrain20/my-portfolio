@@ -8,7 +8,6 @@ const popupContainer = document.querySelector('.popup');
 const work = document.querySelector('.work-container');
 const about = document.querySelector('#about');
 
-
 const navToggle = () => {
   mobileNav.classList.toggle('active');
   removeBtn.classList.toggle('hidden');
@@ -66,7 +65,7 @@ const displayPopup = (id) => {
 };
 
 function populateProjets() {
-  about.innerHTML =` 
+  about.innerHTML = ` 
   <div class="Recent-work">
       <div class="Recent">My Recent Works</div>
       <div class="hr">
@@ -106,7 +105,7 @@ function populateProjets() {
         <a href="#1" id="one"  class="Multi-Post-project cards button">See Project</a>
       </div>
     </div>
-  `
+  `;
   work.innerHTML = `
   <div class="art-container">
   <div class="heading">
@@ -230,10 +229,10 @@ function populateProjets() {
     <div class="heading-btn"><a href="#2" id="seven" class="profesional-Art-btm cards  button">See Project</a></div>
   </div>
 </div>
-  `
- }
- populateProjets();
- 
+  `;
+}
+populateProjets();
+
 const cardBtn = document.querySelectorAll('.cards');
 cardBtn.forEach((btn) => {
   btn.addEventListener('click', () => {
@@ -245,7 +244,6 @@ cardBtn.forEach((btn) => {
     });
   });
 });
-
 
 // FORM VALIDATION-------------------
 // const form = document.getElementById('getintouch');
