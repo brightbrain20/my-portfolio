@@ -87,6 +87,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -191,11 +192,10 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/DufeVanina)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/larissa-vanina-dufe-407a2b25a)
 
-👤 **Author2**
+👤 **Author3**
 
-- GitHub: [@githubhandle](https://github.com/hydaline-code)
-- Twitter: [@twitterhandle](https://twitter.com/hydalineC)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charlene-djoungang-0851aa21a/)
+- GitHub: [@githubhandle](https://github.com/ehmaddd/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
