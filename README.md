@@ -28,8 +28,6 @@
 
 # 📖 [Portfolio setup] <a name="about-project">Portfolio setup  of mobile and deskstop version</a>
 
-
-
 **[Portfolio setup]** setting up header and headline
 
 ## 🛠 Built With 
@@ -185,16 +183,22 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/BrightEzeamaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/bright-ezeamaka-752837237/)
 
- 
-👤 **Author2**
+
+<!-- CONTRIBUTORS -->
+
+## 👥 Contributers <a name="Contributors"></a>
+
+👤 **Contributor1**
 
 - GitHub: [@githubhandle](https://github.com/vanina123)
 - Twitter: [@twitterhandle](https://twitter.com/DufeVanina)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/larissa-vanina-dufe-407a2b25a)
 
-👤 **Author3**
+👤 **Contributor2**
 
-- GitHub: [@githubhandle](https://github.com/ehmaddd/)
+- GitHub: [@ehmaddd](https://github.com/ehmaddd/)
+- Twitter: [@ehmaddd_pk](https://twitter.com/ehmaddd_pk)
+- LinkedIn: [ahmad-saeed-734174148](https://www.linkedin.com/in/ahmad-saeed-734174148/)
 
 
 
