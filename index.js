@@ -233,7 +233,7 @@ function populateProjets() {
 }
 populateProjets();
 
-const cardBtn = document.querySelectorAll('.cards');
+const cardBtn = document.querySelectorAll('#cards');
 cardBtn.forEach((btn) => {
   btn.addEventListener('click', () => {
     const btnId = btn.getAttribute('id');
